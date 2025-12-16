@@ -53,7 +53,7 @@ export const About = () => {
     />
     <span className={styles.iconText}>LeetCode</span>
   </a>
-  <a href="#" className={styles.iconWrapper}>
+  <a href="https://www.codechef.com/users/trisha_444" className={styles.iconWrapper}>
     <img
       src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000"
       alt="CodeChef Icon"
